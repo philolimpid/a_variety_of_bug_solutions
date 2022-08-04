@@ -1,1 +1,9 @@
-# a_variety_of_bug_solutions
+#solutions of a variety of bug
+
+##pycharm install packages error
+
+need to change the source
+
+command：
+pip install xxxxxx -i https://pypi.tuna.tsinghua.edu.cn/simple
+
